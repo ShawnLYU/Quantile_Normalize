@@ -20,7 +20,11 @@ Pretty simple logic but relatively high efficiency
 
 ####references
 Thanks for the following:
+
 [Ranking of numpy array with possible duplicates](http://stackoverflow.com/questions/14671013/ranking-of-numpy-array-with-possible-duplicates)
 
 ####stack overflow
 This solves the problem of [quantile normalization on pandas dataframe](http://stackoverflow.com/questions/37935920/quantile-normalization-on-pandas-dataframe)
+
+####acknowledgement
+Thanks for the help of Mr. Tan
