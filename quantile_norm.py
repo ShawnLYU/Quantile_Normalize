@@ -7,7 +7,7 @@ def quantileNormalize(df_input):
     dic = {}
     for col in df:
         dic.update({col : sorted(df[col])})
-    sorted_df = pd.DataFrame(dic)
+        sorted_df = pd.DataFrame(dic)
     rank = sorted_df.mean(axis = 1).tolist()
     #sort
     for col in df:
